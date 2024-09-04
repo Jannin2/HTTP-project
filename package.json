@@ -1,0 +1,23 @@
+{
+  "name": "http-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jannin2/HTTP-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jannin2/HTTP-project/issues"
+  },
+  "homepage": "https://github.com/Jannin2/HTTP-project#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
